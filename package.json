@@ -1,0 +1,15 @@
+{
+  "name": "persiliao-tsconfig",
+  "version": "0.1.0",
+  "description": "TSConfig for Persi Liao",
+  "homepage": "https://github.com/persiliao/tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/persiliao/tsconfig.git"
+  },
+  "license": "MIT",
+  "author": "Persi Liao <xiangchu.liao@gmail.com> (https://persiliao.com)",
+  "files": [
+    "base.json"
+  ]
+}
