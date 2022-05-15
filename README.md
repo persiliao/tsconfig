@@ -1,6 +1,6 @@
 # persiliao-tsconfig
 
-> TSConfig for Persi Liao
+> Basic tsconfig.json configuration for typescript
 
 **DO NOT use it in your own project if you don't know what it's for**
 
