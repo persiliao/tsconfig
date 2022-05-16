@@ -1,6 +1,6 @@
 {
-  "name": "persiliao-tsconfig",
-  "version": "0.1.1",
+  "name": "tsconfig-persiliao",
+  "version": "0.1.0",
   "description": "Basic tsconfig.json configuration for typescript",
   "homepage": "https://github.com/persiliao/tsconfig",
   "repository": {
